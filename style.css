@@ -1,0 +1,9 @@
+html {
+    background-color:lightgrey;
+    color:black;
+}
+h1 {text-align: center; background-color: aquamarine; width: 180px;}
+h2 {background-color: burlywood; width: 250px;}
+a {
+    color: darkmagenta;
+}
